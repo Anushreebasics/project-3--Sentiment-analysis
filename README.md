@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and resources for a sentiment analysis model. The model is designed to analyze the sentiment of textual data and categorize it into positive, negative, or neutral sentiments.
+The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.
 
 ## Introduction
 
